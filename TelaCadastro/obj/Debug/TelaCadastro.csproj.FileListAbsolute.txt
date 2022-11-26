@@ -1,0 +1,11 @@
+D:\MAURICIO\APRENDIZADO DEV\GABRIEL ARTIGAS\PROJETOS\TelaCadastro\TelaCadastro\bin\Debug\TelaCadastro.exe.config
+D:\MAURICIO\APRENDIZADO DEV\GABRIEL ARTIGAS\PROJETOS\TelaCadastro\TelaCadastro\bin\Debug\TelaCadastro.exe
+D:\MAURICIO\APRENDIZADO DEV\GABRIEL ARTIGAS\PROJETOS\TelaCadastro\TelaCadastro\bin\Debug\TelaCadastro.pdb
+D:\MAURICIO\APRENDIZADO DEV\GABRIEL ARTIGAS\PROJETOS\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.csproj.AssemblyReference.cache
+D:\MAURICIO\APRENDIZADO DEV\GABRIEL ARTIGAS\PROJETOS\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.csproj.SuggestedBindingRedirects.cache
+D:\MAURICIO\APRENDIZADO DEV\GABRIEL ARTIGAS\PROJETOS\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.fmrCadastro.resources
+D:\MAURICIO\APRENDIZADO DEV\GABRIEL ARTIGAS\PROJETOS\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.Properties.Resources.resources
+D:\MAURICIO\APRENDIZADO DEV\GABRIEL ARTIGAS\PROJETOS\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.csproj.GenerateResource.cache
+D:\MAURICIO\APRENDIZADO DEV\GABRIEL ARTIGAS\PROJETOS\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.csproj.CoreCompileInputs.cache
+D:\MAURICIO\APRENDIZADO DEV\GABRIEL ARTIGAS\PROJETOS\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.exe
+D:\MAURICIO\APRENDIZADO DEV\GABRIEL ARTIGAS\PROJETOS\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.pdb
